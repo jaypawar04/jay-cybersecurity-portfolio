@@ -15,6 +15,14 @@ function Contact() {
           </div>
 
           <div className="contact-grid">
+            {/* Phone */}
+            <div className="contact-card">
+              <div className="contact-icon">☎</div>
+              <h3>Phone Number</h3>
+              <a href="tel:+917769968361">+91 7769968361</a>
+            </div>
+
+            {/* Email */}
             <div className="contact-card">
               <div className="contact-icon">✉</div>
               <h3>Email</h3>
@@ -23,22 +31,33 @@ function Contact() {
               </a>
             </div>
 
+            {/* LinkedIn */}
             <div className="contact-card">
               <div className="contact-icon">in</div>
               <h3>LinkedIn</h3>
-              <a href="https://www.linkedin.com/in/jay-pawar-120a01257/">
+              <a
+                href="https://www.linkedin.com/in/jay-pawar-120a01257/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Connect with me
               </a>
             </div>
 
+            {/* GitHub */}
             <div className="contact-card">
               <div className="contact-icon">⌘</div>
               <h3>GitHub</h3>
-              <a href="https://github.com/jaypawar04">
+              <a
+                href="https://github.com/jaypawar04"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 View my projects
               </a>
             </div>
 
+            {/* Location */}
             <div className="contact-card">
               <div className="contact-icon">⌖</div>
               <h3>Location</h3>
