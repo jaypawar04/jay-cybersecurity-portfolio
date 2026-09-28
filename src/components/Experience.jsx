@@ -28,7 +28,14 @@ function Experience() {
                 <h4>Saga technologies innovative solutions</h4>
 
               <p>
-                Cybersecurity professional with hands-on experience in Security Operations Center (SOC) monitoring, Vulnerability Assessment and Penetration Testing (VAPT), and basic compliance activities. Skilled in identifying security threats, analyzing vulnerabilities, monitoring logs, and supporting security audits and documentation.
+                Performed SIEM monitoring and log analysis using Splunk, investigating security events, correlating logs, and
+supporting alert triage and proactive threat detection.
+Monitored endpoint security using Bitdefender EDR and Safetica DLP, supporting threat detection, endpoint
+protection, data-loss prevention, and security incident investigation.
+Supported incident response activities by analyzing security alerts, identifying suspicious activity, and assisting
+with investigation and remediation of security events.
+Performed VAPT and vulnerability assessments using Nessus across network environments, with findings
+aligned to OWASP Top 10 and security best practices
               </p>
             </div>
           </div>
@@ -47,11 +54,14 @@ function Experience() {
               <h4>InLighnx Global Pvt.Ltd</h4>
 
               <p>
-                Assisted the cybersecurity team in vulnerability assessments and security reviews of client
-environments.
-Participated in security analysis, report preparation, and remediation tracking for identified
-vulnerabilities.
-Developed practical knowledge of web application security, network security concepts, and industrystandard security frameworks.
+                Assisted in VAPT engagements for web applications and network environments using Burp Suite, Nmap, Nessus,
+Metasploit.
+Performed reconnaissance, enumeration, vulnerability identification, exploitation validation, and security testing,
+documenting findings and supporting remediation activities.
+Conducted web application security testing aligned with OWASP Top 10, identifying security weaknesses and
+preparing technical vulnerability reports.
+Developed hands-on experience with Kali Linux, network security testing, vulnerability scanning, penetrationtesting methodologies, and security assessment tools.
+
 
               </p>
             </div>
