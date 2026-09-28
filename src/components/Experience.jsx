@@ -59,10 +59,13 @@ aligned to OWASP Top 10 and security best practices
               <p>
                 Assisted in VAPT engagements for web applications and network environments using Burp Suite, Nmap, Nessus,
 Metasploit.
+
 Performed reconnaissance, enumeration, vulnerability identification, exploitation validation, and security testing,
 documenting findings and supporting remediation activities.
+
 Conducted web application security testing aligned with OWASP Top 10, identifying security weaknesses and
 preparing technical vulnerability reports.
+
 Developed hands-on experience with Kali Linux, network security testing, vulnerability scanning, penetrationtesting methodologies, and security assessment tools.
 
 
