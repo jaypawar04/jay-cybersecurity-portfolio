@@ -30,10 +30,13 @@ function Experience() {
               <p>
                 Performed SIEM monitoring and log analysis using Splunk, investigating security events, correlating logs, and
 supporting alert triage and proactive threat detection.
+
 Monitored endpoint security using Bitdefender EDR and Safetica DLP, supporting threat detection, endpoint
 protection, data-loss prevention, and security incident investigation.
+
 Supported incident response activities by analyzing security alerts, identifying suspicious activity, and assisting
 with investigation and remediation of security events.
+
 Performed VAPT and vulnerability assessments using Nessus across network environments, with findings
 aligned to OWASP Top 10 and security best practices
               </p>
